@@ -1,0 +1,9 @@
+name = "edge-sentiment"
+type = "webpack"
+zone_id = ""
+private = false
+account_id = ""
+route = ""
+webpack_config= "webpack.config.js" 
+workers_dev = true
+compatibility_date = "2022-04-10"

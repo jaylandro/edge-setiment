@@ -1,0 +1,16 @@
+{
+  "name": "edge-setiment",
+  "version": "1.0.0",
+  "description": "Sentiment analysis with Tensorflow.js and Cloudflare workers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx webpack --config webpack.config.js"
+  },
+  "author": "nodebotanist <the@nodebotani.st>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.35.3",
+    "webpack-cli": "^4.9.2"
+  }
+}
